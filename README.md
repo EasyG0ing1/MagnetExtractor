@@ -29,7 +29,7 @@ magnet --help
 ```
 To get these instructions.
 
-If you have any problems or would like something changed with the program, create an issue and you wish to contribute, feel free to submit a pull request.
+If you have any problems or would like something changed with the program, create an issue. If you wish to contribute, feel free to submit a pull request.
 
 ## Version History
 
