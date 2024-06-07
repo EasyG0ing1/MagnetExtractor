@@ -11,21 +11,28 @@ that is in your PATH environment variable.
 
 ## Usage
 
-Its real simple. If you have the html in your clipboard you just run the program:
+Its real simple. If you have the html OR a URL in your clipboard you just run the program:
 
 ```bash
 magnet
 ```
 
-If you have the URL that you want it to grab and extract from:
+You can also pass the URL in as an argument:
 
 ```bash
 magnet https://someserver.com/some/link
 ```
 
+If you need the magnet to be saved to a file, like for batch processing, do it like this:
+```bash
+magnet out >myFile.txt
+magnet out https://someserver.com/some/url >myFile.txt
+```
+
 You can also run
 ```bash
 magnet --help
+magnet /?
 ```
 To get these instructions.
 
