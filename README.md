@@ -2,7 +2,7 @@
 
 Magnet extractor is a simple utility that can help you extract torrent magnet links from URLs or full html code.
 
-Sometimes torrent sites make it difficult to get at the magnet. With this utility, you can pass in the URL of the page that has the magnet, or you can use your browsers developer mode to copy the full html code into your clipboard then run this utility and the magnet link will be places in your clipboard.
+Sometimes torrent sites make it difficult to get at the magnet. With this utility, you can pass in the URL of the page that has the magnet, or you can use your browsers developer mode to copy the full html code into your clipboard then run this utility and the magnet link will be placed in your clipboard.
 
 ## Installation
 
